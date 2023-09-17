@@ -812,3 +812,181 @@ table {
     }
 
 }
+
+@media screen and (max-width:620px) {
+
+    .container {
+        width: 550px;
+    }
+
+    .header {
+        width: 500px;
+    }
+    .art-p1{
+        font-size: 11px;
+    }
+    .art-p2{
+        font-size: 10px;
+    }
+
+
+
+
+    .aricle-item {
+        width: 80px;
+        height: 150px;
+    }
+
+    .sec-item {
+        width: 150px;
+        height: 218px;
+        margin-bottom: 55px;
+    }
+
+    .sec-item-top {
+        width: 150px;
+    }
+    .ftext{
+        font-size: 11px;
+    }
+    .icons{
+        margin-top: 5px;
+        font-size: 12px;
+    }
+    
+
+    .secbar-items {
+        gap: 10px;
+        margin-top: 22px;
+        justify-content: center;
+    }
+
+    .sec-img {
+        width: 50px;
+    }
+   
+    svg {
+        width: 20px;
+    }
+
+    .fimg {
+        width: 110px;
+    }
+
+    table {
+        width: 300px;
+        height: 150px;
+    }
+
+    td {
+        font-size: 15px;
+    }
+
+    .footer-img {
+        width: 20px;
+    }
+
+    .footer-btn {
+        width: 110px;
+        height: 40px;
+        font-size: 11px;
+    }
+
+    .footer {
+        height: 500px;
+    }
+
+    .mtext {
+        font-size: 25px;
+    }
+
+    .bar-text {
+        font-size: 15px;
+    }
+    .summary{
+        height: 450px;
+    }
+
+    .summary-item {
+        width: 110px;
+    }
+
+    .sum-t2 {
+        font-size: 10px;
+    }
+
+    .sum-t1 {
+        font-size: 12px;
+    }
+
+    .summary-items {
+        width: 100%;
+    }
+
+    .aside-bar {
+        width: 100%;
+        gap: 36px;
+    }
+
+    .aside-bar-box {
+        width: 200px;
+        height: 185px;
+        flex-shrink: 0;
+    }
+    .aside{
+        height: 350px;
+    }
+
+    .abbt {
+        font-size: 12px;
+    }
+
+    .abbtb {
+        font-size: 9px;
+    }
+
+    .figure {
+        height: 360px;
+        width: 100%;
+    }
+
+    .figure-items {
+        gap: 10px;
+        margin-top: 23px;
+    }
+
+    .min {
+        font-size: 15px;
+    }
+
+    .micon {
+        top: 476px;
+        font-size: 40px;
+    }
+
+    .article-bar {
+        width: 100%;
+    }
+
+    .article {
+        width: 100%;
+        height: 520px;
+    }
+
+    .text {
+        width: 500px;
+    }
+
+    .sec-bot2 {
+        font-size: 11px;
+    }
+
+    .sec-bot1 {
+        font-size: 15px;
+    }
+
+    .secbar-items {
+        margin-bottom: 150px;
+    }
+
+}
